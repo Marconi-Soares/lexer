@@ -1,5 +1,5 @@
 # Lexer written in C++
-Made during [these classes](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV")
+Made during <a href="https://www.youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV" target="_blank">these classes</a>
 ## Dependencies
 * clang++
 * make
