@@ -9,4 +9,5 @@ git clone https://github.com/Marconi-Soares/lexer
 cd lexer/
 mkdir bin/
 make all
+./bin/expressions
 ```
