@@ -8,5 +8,5 @@ Made during <a href="https://www.youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN
 git clone https://github.com/Marconi-Soares/lexer
 cd lexer/
 mkdir bin/
-makefile all
+make all
 ```
